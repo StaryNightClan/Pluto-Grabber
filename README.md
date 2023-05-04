@@ -1,6 +1,8 @@
 # Pluto-Grabber
 Functions------
 ----------------------------------------------
+____________________________
+
 Discord Injection
 
 Roblox Cookie Grabber
@@ -45,5 +47,5 @@ Bitcoin Stealer
 
 Minecraft Session Stealer
 
-Winlocker
+_______________________________
 ----------------------------------------------
